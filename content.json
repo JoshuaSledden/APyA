@@ -1,0 +1,42 @@
+[
+    {
+        "url": "https://www.amazon.co.uk/HP-21-5-Monitor-Pixel-Refresh/dp/B072Z8PPWZ",
+        "interval_seconds": 1500,
+        "last_known_price": 79.99
+    },
+    {
+        "url": "https://www.amazon.co.uk/Amazon-Fire-Hd-8-Tablet-Hands-Free-Alexa-HD-Display-16GB-Black-Special-Offers/dp/B0794ZL74C",
+        "interval_seconds": 1500,
+        "last_known_price": 79.99
+    },
+    {
+        "url": "https://www.amazon.co.uk/Logitech-ultrafast-Scrolling-Ergonomic-Customisation/dp/B07W6JG6Z7",
+        "interval_seconds": 1500,
+        "last_known_price": 99.99
+    },
+    {
+        "url": "https://www.amazon.co.uk/dp/B07J38YHXC",
+        "interval_seconds": 1500,
+        "last_known_price": 27.64
+    },
+    {
+        "url": "https://www.amazon.co.uk/dp/B07FYDY5XJ",
+        "interval_seconds": 1500,
+        "last_known_price": 24.99
+    },
+    {
+        "url": "https://www.amazon.co.uk/dp/B076RSKBHD",
+        "interval_seconds": 1500,
+        "last_known_price": 16.99
+    },
+    {
+        "url": "https://www.amazon.co.uk/Spedal-Streaming-Computer-Facebook-Compatible/dp/B07TKXG8LR",
+        "interval_seconds": 1500,
+        "last_known_price": 42.99
+    },
+    {
+        "url": "https://www.amazon.co.uk/dp/B07L2P4KLL/",
+        "interval_seconds": 1500,
+        "last_known_price": 19.99
+    }
+]
